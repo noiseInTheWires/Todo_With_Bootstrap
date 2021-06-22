@@ -1,0 +1,29 @@
+.wtf {
+  margin-top: 30px;
+}
+.content {
+  display: flex;
+  flex-direction: row;
+}
+.hideme {
+  display: none;
+}
+
+.showme {
+  display: flex;
+}
+#pageBtns {
+  display: flex;
+  flex-direction: row;
+}
+
+#target {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 20px;
+}
